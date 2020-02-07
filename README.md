@@ -1,10 +1,12 @@
-﻿# .NET Core Home
+# .NET Core Home
 
 The dotnet/core repository is a good starting point for .NET Core.
 
 The latest major release is [.NET Core 3.1](release-notes/3.1). The latest patch updates are listed in [.NET Core release notes](release-notes/README.md).
 
 ## Download the latest .NET Core SDK
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsurfmuggle%2Fcore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsurfmuggle%2Fcore?ref=badge_shield)
+
 
 * [.NET Core 3.1 SDK](release-notes/3.1/README.md)
 
@@ -52,3 +54,6 @@ Some projects license documentation and other forms of content under
 [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 See specific [repos](Documentation/core-repos.md) to understand the license used.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsurfmuggle%2Fcore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsurfmuggle%2Fcore?ref=badge_large)
